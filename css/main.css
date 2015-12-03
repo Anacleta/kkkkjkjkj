@@ -1,0 +1,33 @@
+/**{outline: solid 1px green;}*/
+h1{
+	color:white;
+	position: relative;
+	bottom: 10px;
+}
+.menu ul li a {
+	color:white;
+}
+.menu ul li{
+	position: relative;
+	top: 10px;
+}
+.menu li a:hover{
+	color:brown;
+}
+/*lista de proyestos ++++++++++++++++++++*/
+.lista{
+	width: 100
+}
+.lista ul li a{
+	position: relative;
+	display: inline-block;
+}
+.lista a :hover{
+	color: brown;
+}
+/*img{
+	width: 100%;
+}
+footer{
+	background: pink;*/
+}
